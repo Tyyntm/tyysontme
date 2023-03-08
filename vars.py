@@ -1,7 +1,4 @@
-api_id, api_hash, bot_token,  
-pics, nor_img, welcom_vid, spell_img, admins,
-auth_group, auth_users, support_chat_id, 
-database_uri, database_name, auth_channel
+
 
 # Bot information
 api_id = ""
